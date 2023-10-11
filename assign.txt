@@ -1,0 +1,3 @@
+create search
+click tag
+view other profiles
